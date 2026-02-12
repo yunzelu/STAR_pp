@@ -1,5 +1,5 @@
 # STAR++
-This repo is the official implementation for [STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition](). It is an extension version of the previously published ACM MM 2024 conference paper [STAR](https://dl.acm.org/doi/10.1145/3664647.3681196). This journal paper has been accepted to **TCSVT 2025**.
+This repo is the official implementation for [STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition](https://ieeexplore.ieee.org/abstract/document/11339971). It is an extension version of the previously published ACM MM 2024 conference paper [STAR](https://dl.acm.org/doi/10.1145/3664647.3681196). This journal paper has been accepted to **TCSVT 2025**.
 
 ## Framework
 ![image](src/star_pp.png)
@@ -121,3 +121,17 @@ You can download Shift-GCN pretraining weights from [BaiduDisk](https://pan.baid
 This repo is based on [STAR](https://github.com/cseeyangchen/STAR), [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN) and [GAP](https://github.com/MartinXM/GAP). The data processing is borrowed from [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN) and [AimCLR](https://github.com/Levigty/AimCLR). 
 
 Thanks to the original authors for their work!
+
+## Citation
+
+Please cite this work if you find it useful:.
+
+```
+@article{chen2026star++,
+  title={STAR++: Region-aware Conditional Semantics via Interpretable Side Information for Zero-Shot Skeleton Action Recognition},
+  author={Chen, Yang and Guo, Jingcai and Li, Miaoge and Rao, Zhijie and Guo, Song},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2026},
+  publisher={IEEE}
+}
+```
