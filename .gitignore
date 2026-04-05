@@ -39,7 +39,11 @@ train/
 val/
 __pycache__/
 
-
+.venv/
+jobs/
+model/Temporal_shift/cuda/build/
+model/Temporal_shift/cuda/dist/
+model/Temporal_shift/cuda/shift_cuda_linear_cpp.egg-info/
 
 
 
