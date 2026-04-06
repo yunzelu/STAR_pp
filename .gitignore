@@ -48,7 +48,7 @@ data/nturgbd_raw/
 data/ntu60/raw_data/
 data/ntu60/denoised_data/
 data/ntu60/*.npz
-
+model/*.pt
 
 
 
