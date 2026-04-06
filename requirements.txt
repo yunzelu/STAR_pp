@@ -2,3 +2,6 @@ numpy<2.0.0
 pyyaml
 torch<2.0
 tqdm
+scikit-learn
+openai-clip
+tensorboardX
