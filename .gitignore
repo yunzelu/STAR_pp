@@ -46,6 +46,8 @@ model/Temporal_shift/cuda/dist/
 model/Temporal_shift/cuda/shift_cuda_linear_cpp.egg-info/
 data/nturgbd_raw/
 data/ntu60/raw_data/
+data/ntu60/denoised_data/
+data/ntu60/*.npz
 
 
 
