@@ -24,7 +24,7 @@ import yaml
 from tensorboardX import SummaryWriter
 from tqdm import tqdm
 
-from torchlight import DictAction
+from torchlight.torchlight import DictAction
 from tools import *
 
 import matplotlib.pyplot as plt
